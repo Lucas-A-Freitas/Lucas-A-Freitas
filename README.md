@@ -1,16 +1,37 @@
-### Hi there 👋
+<h1>Hello World 🌎</h2> 
+<h2>Sou o Lucas Freitas e é um prazer te conhecer</h2> 
+<p> Sou estudante de programação e aluno do curso 
+<strong> Desenvolvimento de SoftWare Multiplataforma </strong> pela <strong> Fatec </Strong> de matão.</p>
+<p>Tenho conhecimento basico em HTML 5, CSS 3, JavaScript, Bootstrap 5 e Python.</p>
 
-<!--
-**Lucas-A-Freitas/Lucas-A-Freitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Estou amando estudar o front-end e criar Layouts bonitos e responsivos.</p>
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-freitas-32b618141/)
+[![Github](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucas-A-Freitas)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luasc_fre/)
+<a href="mailto:lucasfreitas693@gmail.com?subject=Contato atraves do GitHub" title="">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-A-Freitas&show_icons=true&theme=merko)
+
+<h2>Linguagens e tecnologias 👨🏻‍💻 
+
+<div style='display: inline_block'> </br>
+    <img alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</div>
+
+<div style='display: inline_block'>
+    <img alt="CSS 3" src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+
+<div style='display: inline_block'>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
+
+<div style='display: inline_block'>
+    <img alt="Bootstrap 5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</div>
+
+<div style='display: inline_block'>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</div>
