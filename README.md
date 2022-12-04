@@ -29,7 +29,7 @@
 </div>
 
 <div style='display: inline_block'>
-    <img alt="Bootstrap 5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img alt="Bootstrap 5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
 <div style='display: inline_block'>
