@@ -1,4 +1,4 @@
-<h1>Hello World 🌎</h2> 
+<h1>Hello World ✌️ 🌎</h2> 
 <h2>Sou o Lucas Freitas e é um prazer te conhecer</h2> 
 <p> Sou estudante de programação e aluno do curso 
 <strong> Desenvolvimento de SoftWare Multiplataforma </strong> pela <strong> Fatec </Strong> de matão.</p>
@@ -21,7 +21,7 @@
 </div>
 
 <div style='display: inline_block'>
-    <img alt="CSS 3" src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img alt="CSS 3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
 <div style='display: inline_block'>
