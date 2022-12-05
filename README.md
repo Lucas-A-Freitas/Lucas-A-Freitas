@@ -1,8 +1,8 @@
 <h1>Hello World ✌️ 🌎</h2> 
 <h2>Sou o Lucas Freitas e é um prazer te conhecer</h2> 
 <p> Sou estudante de programação e aluno do curso 
-<strong> Desenvolvimento de SoftWare Multiplataforma </strong> pela <strong> Fatec </Strong> de matão.</p>
-<p>Tenho conhecimento basico em HTML 5, CSS 3, JavaScript, Bootstrap 5 e Python.</p>
+<strong> Desenvolvimento de Software Multiplataforma </strong> pela <strong> Fatec </Strong> de matão.</p>
+<p>Tenho conhecimento básico em HTML 5, CSS 3, JavaScript, Bootstrap 5 e Python.</p>
 
 <p>Estou amando estudar o front-end e criar Layouts bonitos e responsivos.</p>
 
@@ -14,24 +14,17 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-A-Freitas&show_icons=true&theme=merko)
 
+
+
 <h2>Linguagens e tecnologias 👨🏻‍💻 
 
-<div style='display: inline_block'> </br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-A-Freitas&layout=compact)](https://github.com/Lucas-A-Freitas/github-readme-stats)
+
+<div style='display: inline_block'> 
     <img alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-</div>
-
-<div style='display: inline_block'>
     <img alt="CSS 3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
-
-<div style='display: inline_block'>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
-
-<div style='display: inline_block'>
     <img alt="Bootstrap 5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div>
-
-<div style='display: inline_block'>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
